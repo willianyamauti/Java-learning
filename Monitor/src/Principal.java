@@ -15,7 +15,7 @@ public class Principal {
         m1.ligar();
         m1.exibirMsg("Monitor Ligado");
 
-        m1.exibirMsg("Resolução atual:" + m1.reso);
+        m1.exibirMsg("Resolução atual:");
         m1.ajustarReso(12454616);
         m1.exibirMsg("Ajustada resolução");
 

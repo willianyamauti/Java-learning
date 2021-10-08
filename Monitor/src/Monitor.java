@@ -6,9 +6,12 @@
 
 public class Monitor
 {
+    //private restringe o uso dos atributos apenas na variavel
     //atributos do monitor
-    int reso;
-    String tipo;
+    private int reso;
+    private String tipo;
+    private String sep;
+
 
     //metodo construtor - para inicializar os dados do objeto
     public Monitor()
