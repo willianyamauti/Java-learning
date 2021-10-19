@@ -3,9 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Aprendizado.iml" filepath="$PROJECT_DIR$/Aprendizado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio - aula 10/Exercicio - aula 10.iml" filepath="$PROJECT_DIR$/Exercicio - aula 10/Exercicio - aula 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio - aula 11/Exercicio - aula 11.iml" filepath="$PROJECT_DIR$/Exercicio - aula 11/Exercicio - aula 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio - aula 12/Exercicio - aula 12.iml" filepath="$PROJECT_DIR$/Exercicio - aula 12/Exercicio - aula 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio - aula 14/Exercicio - aula 14.iml" filepath="$PROJECT_DIR$/Exercicio - aula 14/Exercicio - aula 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio  -  aula 9/Exercicio 1.iml" filepath="$PROJECT_DIR$/Exercicio  -  aula 9/Exercicio 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/Monitor/Monitor.iml" filepath="$PROJECT_DIR$/Monitor/Monitor.iml" />
       <module fileurl="file://$PROJECT_DIR$/caneta/caneta.iml" filepath="$PROJECT_DIR$/caneta/caneta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio - aula 13/exercicio - aula 13.iml" filepath="$PROJECT_DIR$/exercicio - aula 13/exercicio - aula 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teste_classes/teste_classes.iml" filepath="$PROJECT_DIR$/teste_classes/teste_classes.iml" />
     </modules>
   </component>
 </project>
